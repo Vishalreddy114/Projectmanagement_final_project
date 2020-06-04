@@ -8,10 +8,10 @@ This project is a user friendly and easy to navigate website with a quality cont
 
 ## Team member names:
 1. Bhanu Prakash Thota
-2. Sri Sudheera Chitipolu
-3. Harika Kulkarni
-4. Sri Krishna Emmadishetty
-5. Vishal Reddy Vennavaram
+1. Sri Sudheera Chitipolu
+1. Harika Kulkarni
+1. Sri Krishna Emmadishetty
+1. Vishal Reddy Vennavaram
 
 
 ## Client:  Dr. Aziz Fellah 
