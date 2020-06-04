@@ -17,7 +17,7 @@ This project is a user friendly and easy to navigate website with a quality cont
 ## Client:  Dr. Aziz Fellah 
 
 ## Team logo:
- ![Logo](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/logo.png)
+ ![Logo](https://github.com/Saikrishna1545/Projectmanagement_final_project/blob/master/96c7916f-6ce7-4351-ba57-85b55584329e_200x200.png)
 
 
 ## Working as a team together:
