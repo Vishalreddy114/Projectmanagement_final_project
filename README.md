@@ -3,7 +3,7 @@
 <h3 style="text-align:center"> Project title: Lemniscate Online Tutorials </h3>
 
 ## Description:
-This project is a user friendly and easy to navigate website with a quality content about all the process groups and the knowledge areas. We are going to explain about each process in detail along with their knowledge areas. We also provide an interface where students can post their questions if they have any and we will be having other students and teachers who can respond to the questions.
+This primary reason to develop this project is to help viewers or students to get the quality content about process groups and knowledge areas. Lemniscate Online Tutorials project is a user friendly web based application. This application is easy to navigate and provides the student or learner with information that can be accessed from anywhere, anytime. Setting free from time and place constraints. 
 <h4> Team name:</h4>  Lemniscate 
 
 ## Team member names:
