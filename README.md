@@ -24,7 +24,7 @@ The primary reason to develop this project is to help viewers or students to get
 As a team we are not going to let anyone and anything down in project. Everyone in the team are supportive to the other individuals. The weakness we have as an individual are not visible as we have other members to cover them.
 
 ## Team meetings:
-We will daily meet evening in Colden hall for the status of project to help each other if anyone fall behind.
+In order to collaborate with the team members we will use zoom so that it will be easy to know the status of the project.
 
 ## Contacting each other: 
 We will be communicating using Northwest Email and Skype for Business to have quick online meetings.
