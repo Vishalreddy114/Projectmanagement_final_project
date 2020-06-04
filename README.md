@@ -10,7 +10,7 @@ This project is a user friendly and easy to navigate website with a quality cont
 1. Bhanu Prakash Thota
 1. Sri Sudheera Chitipolu
 1. Harika Kulkarni
-1. Sri Krishna Emmadishetty
+1. Sai Krishna Emmadishetty
 1. Vishal Reddy Vennavaram
 
 
