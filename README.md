@@ -67,38 +67,38 @@ In one team everyone are interested to learn new things and want to help others.
 </table>
 
 ## Project Manager
-•	Arranging daily stand-up meetings
-•	Analyzing the scope
-•	Keeping track of all requirements
-•	Communicating with other stakeholders
+-	Arranging daily stand-up meetings
+-	Analyzing the scope
+-	Keeping track of all requirements
+-	Communicating with other stakeholders
 
 ## Team Lead
 
-•	Assigning tasks
-•	Managing the risks
-•	Encouraging the team
-•	Providing guidance and instructions to team members
-•	Motivating team
+-	Assigning tasks
+-	Managing the risks
+-	Encouraging the team
+-	Providing guidance and instructions to team members
+-	Motivating team
 
 
 ## Content Developer:
-•	Getting all content from different sources
-•	Validating the content
-•	Doing research among internet and library for the content
+-	Getting all content from different sources
+-	Validating the content
+-	Doing research among internet and library for the content
 
 
 ## Web Application Developer:
-•	Creating web application using various scripting languages and tools
-•	Meeting the requirements
-•	Meeting the given deadlines
-•	Time management
+-	Creating web application using various scripting languages and tools
+-	Meeting the requirements
+-	Meeting the given deadlines
+-	Time management
 
 
 ## User interface developer:
-•	Creating user interface for the website
-•	Communicating with other stakeholders
-•	Knowledge on different tools and technologies
-•	Meeting the requirements
+-	Creating user interface for the website
+-	Communicating with other stakeholders
+-	Knowledge on different tools and technologies
+-	Meeting the requirements
 
 
 ## Signatures:
