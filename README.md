@@ -3,7 +3,7 @@
 <h3 style="text-align:center"> Project title: Lemniscate Online Tutorials </h3>
 
 ## Description:
-The primary reason to develop this project is to help viewers or students to get the quality content about process groups and knowledge areas. Lemniscate Online Tutorials project is a user friendly web based application. This application is easy to navigate and provides the student or learner with information that can be accessed from anywhere, anytime. Setting free from time and place constraints. 
+The primary reason to develop this project is to help viewers or students to get the quality content about process groups and knowledge areas. Lemniscate Online Tutorials project is a user friendly web based application. This application is easy to navigate and provides the student or learner with information that can be accessed from anywhere, anytime. Setting free from time and place constraints.It also allows student to post any questions if they have,so that other people will respond to it if they know the answer.
 <h4> Team name:</h4>  Lemniscate 
 
 ## Team member names:
